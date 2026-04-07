@@ -1,0 +1,31 @@
+Action,N_seqs,ADE,FDE
+Greeting 1,104,0.5272,0.5752
+Greeting,121,0.468,0.53
+Photo 1,110,0.4605,0.6359
+WalkDog 1,127,0.4378,0.5569
+Discussion 2,291,0.436,0.5366
+Discussion 1,333,0.4339,0.5383
+Purchases 1,82,0.4306,0.4282
+WalkDog,138,0.4295,0.5263
+Photo,164,0.4288,0.5921
+Posing,126,0.4167,0.52
+SittingDown 1,134,0.4125,0.5525
+Posing 1,129,0.407,0.5418
+Directions,103,0.4006,0.4498
+Directions 1,148,0.3845,0.4507
+Purchases,94,0.3807,0.3963
+Waiting,214,0.3778,0.5233
+Waiting 1,147,0.3737,0.5161
+Smoking,261,0.3644,0.5053
+SittingDown,182,0.3622,0.5019
+Walking 1,154,0.3552,0.4977
+Smoking 1,171,0.3275,0.4568
+Phoning,128,0.3234,0.4119
+Eating 1,189,0.3077,0.384
+Eating,187,0.3016,0.3756
+Sitting 1,188,0.2979,0.4243
+Sitting,197,0.2974,0.4287
+WalkTogether 1,130,0.2805,0.3751
+Walking,120,0.2799,0.3765
+Phoning 1,148,0.2788,0.3663
+WalkTogether,114,0.2731,0.358

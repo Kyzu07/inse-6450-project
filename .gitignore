@@ -1,0 +1,56 @@
+# Model Checkpoints
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# Misc
+*.txt
+*.pdf
+venv/
+.venv/
+env/
+claude/
+.claude/
+.env
+.Python
+.vscode/
+.idea/
+!requirement.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# LaTeX auxiliary
+*.aux
+*.log
+*.bbl
+*.blg
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Large data arrays
+*.npz
+*.npy
+*.h5
+*.hdf5
+
+# Data folder — keep only README
+data/*
+!data/README.md
+
+# Keep results (CSVs and PNGs)
+!HumanMAC/results/**/*.png
+!HumanMAC/results/**/*.csv
+
